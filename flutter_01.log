@@ -1,0 +1,88 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+DartDevelopmentServiceException: DartDevelopmentServiceException: Failed to start Dart Development Service
+
+```
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel stable, 3.38.4, on Microsoft
+    Windows [Version 10.0.26200.7462], locale en-US)
+    [405ms]
+    [32m•[39m Flutter version 3.38.4 on channel stable at
+      C:\src\flutter
+    [32m•[39m Upstream repository
+      https://github.com/flutter/flutter.git
+    [32m•[39m Framework revision 66dd93f9a2 (5 weeks ago),
+      2025-12-03 14:56:10 -0800
+    [32m•[39m Engine revision a5cb96369e
+    [32m•[39m Dart version 3.10.3
+    [32m•[39m DevTools version 2.51.1
+    [32m•[39m Feature flags: enable-web,
+      enable-linux-desktop, enable-macos-desktop,
+      enable-windows-desktop, enable-android,
+      enable-ios, cli-animations,
+      enable-native-assets,
+      omit-legacy-version-file,
+      enable-lldb-debugging
+
+[32m[✓][39m Windows Version (11 Home Single Language 64-bit,
+    25H2, 2009) [1,429ms]
+
+[33m[!][39m Android toolchain - develop for Android devices
+    (Android SDK version 35.0.0) [387ms]
+    [32m•[39m Android SDK at
+      C:\Users\Faith\AppData\Local\Android\sdk
+    [32m•[39m Emulator version 35.2.10.0 (build_id 12414864)
+      (CL:N/A)
+    [31m✗[39m cmdline-tools component is missing.
+      Try installing or updating Android Studio.
+      Alternatively, download the tools from
+      https://developer.android.com/studio#command-l
+      ine-tools-only and make sure to set the
+      ANDROID_HOME environment variable.
+      See
+      https://developer.android.com/studio/command-l
+      ine for more details.
+    [31m✗[39m Android license status unknown.
+      Run `flutter doctor --android-licenses` to
+      accept the SDK licenses.
+      See
+      https://flutter.dev/to/windows-android-setup
+      for more details.
+
+[32m[✓][39m Chrome - develop for the web [18ms]
+    [32m•[39m Chrome at C:\Program
+      Files\Google\Chrome\Application\chrome.exe
+
+[31m[✗][39m Visual Studio - develop Windows apps [17ms]
+    [31m✗[39m Visual Studio not installed; this is necessary
+      to develop Windows apps.
+      Download at
+      https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with
+      C++" workload, including all of its default
+      components
+
+[32m[✓][39m Connected device (3 available) [163ms]
+    [32m•[39m Windows (desktop) • windows • windows-x64    •
+      Microsoft Windows [Version 10.0.26200.7462]
+    [32m•[39m Chrome (web)      • chrome  • web-javascript •
+      Google Chrome 143.0.7499.110
+    [32m•[39m Edge (web)        • edge    • web-javascript •
+      Microsoft Edge 143.0.3650.139
+
+[32m[✓][39m Network resources [705ms]
+    [32m•[39m All expected network resources are available.
+
+[33m![39m Doctor found issues in 2 categories.
+```
