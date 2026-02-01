@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299267798038",
+    "project_id": "nbi-signup",
+    "storage_bucket": "nbi-signup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299267798038:android:ae3082c3af240b424b3137",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qqb1A1Jd3Od_vB4dDxp3FX5m1niM270"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
